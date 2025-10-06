@@ -18,11 +18,12 @@ export default function StoreHeader() {
 						<span>★</span>
 						<span>★</span>
 						<span>★</span>
-						<span className="text-amber-300">☆</span>
+						<span>★</span>
+						<span className="text-amber-300"></span>
 					</div>
-					<div className="text-xs text-gray-600">4.0 • 120 reviews</div>
+				
 				</div>
-				<div className="mt-2 inline-block rounded-full bg-emerald-50 px-2 py-0.5 text-xs text-emerald-600">Online Store</div>
+				<div className="mt-2 inline-block rounded-full px-2 py-0.5 text-xs text-emerald-600">Online Store</div>
 			</div>
 		</div>
 	)
